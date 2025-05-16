@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn react
+          I was changed into chichi branch
         </a>
       </header>
     </div>
