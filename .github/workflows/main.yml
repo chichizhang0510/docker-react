@@ -24,6 +24,6 @@ jobs:
           application_name: docker-gh
           environment_name: Dockergh-env
           existing_bucket_name: elasticbeanstalk-us-east-2-284726705908
-          region: us-east-1
+          region: us-east-2
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
